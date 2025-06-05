@@ -2,8 +2,7 @@ package com.meethere.controller.user;
 
 import com.meethere.entity.Venue;
 import com.meethere.service.VenueService;
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
-import org.hibernate.annotations.Parameter;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

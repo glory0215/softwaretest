@@ -16,7 +16,6 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.test.annotation.Rollback;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
-import sun.rmi.runtime.Log;
 
 import javax.transaction.Transactional;
 import java.time.LocalDateTime;
