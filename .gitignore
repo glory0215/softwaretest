@@ -1,6 +1,6 @@
 HELP.md
 target/
-!target/site/jacoc/jacoco.xml
+!target/site/jacoco/jacoco.xml
 
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
